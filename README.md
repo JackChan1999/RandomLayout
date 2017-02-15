@@ -1,0 +1,2 @@
+# RandomLayout
+Android动画之随机摆放文字带飞入飞出效果
