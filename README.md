@@ -14,6 +14,7 @@ Android动画之随机摆放文字带飞入飞出效果
 	2. 有组合动画(alpha动画+scale动画)
 ## 实现:口述
 ## 相关类介绍:
+
 	- AnimationUtil:生成组合动画的工具类
 	- RandomLayout:生成随机布局
 	- StellarMap:里面有两个随机布局,控制它的切换效果
