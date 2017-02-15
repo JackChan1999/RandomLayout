@@ -18,10 +18,10 @@ Android动画之随机摆放文字带飞入飞出效果
 	* RandomLayout:生成随机布局
 	* StellarMap:里面有两个随机布局,控制它的切换效果
 
-	1. 用来管理两个随机的布局RandomLayout
-    		2. 设置数据的方式：setAdapter(),
-    			1. getGroupCount() : 有几组数据
-    			2. getCount（Group）:第几组数据的个数
-    			3. getView(group,position)
+	    用来管理两个随机的布局RandomLayout
+    	        设置数据的方式：setAdapter(),
+    			- getGroupCount() : 有几组数据
+    			- getCount（Group）:第几组数据的个数
+    			- getView(group,position)
 
 	* ShakeListener:摇一摇工具类
